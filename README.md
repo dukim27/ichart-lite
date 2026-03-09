@@ -10,6 +10,8 @@ Accessible Charts for the Visually Impaired using Lightweight Extraction Algorit
 <img src="assets/ichart_overview.png" width="850">
 </p>
 
+**Conference:** Korea Software Congress (KSC) 2023
+**Organization:** KIISE
 **Paper PDF:** [Full Paper PDF](papers/iChart.pdf)
 
 ---
@@ -204,3 +206,4 @@ If you use this code or reference this project, please cite:
 
 Danu Kim  
 Korea International School, Jeju Campus
+Email: dukim27@kis.ac
