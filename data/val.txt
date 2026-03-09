@@ -1,0 +1,2 @@
+./data/images/Bar-Graph-Chart.jpg
+./data/images/Bar Chart actuals.jpg

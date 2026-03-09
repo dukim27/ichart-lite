@@ -1,0 +1,7 @@
+./data/images/002.jpg
+./data/images/003.jpg
+./data/images/004.jpg
+./data/images/3D-bar-chart-object.jpg
+./data/images/4-Bar-chart-showing-age-distribution-among-participants.jpg
+./data/images/8e216bd68c12b759437864d5f87d29a5.jpg
+./data/images/Bar Chart Count.jpg

@@ -1,0 +1,105 @@
+[
+	{
+		"name": "002.jpg",
+		"x_labels": [
+			"Guest",
+			"New User",
+			"Existing User"
+		]
+	},
+	{
+		"name": "003.jpg",
+		"x_labels": [
+			"Period 1",
+			"Period 2",
+			"Period 3",
+			"Period 4",
+			"Period 5"
+		]
+	},
+	{
+		"name": "004.jpg",
+		"x_labels": [
+			"Apple",
+			"Orange",
+			"Banana",
+			"Kiwifruit",
+			"Blueberry",
+			"Grapes"
+		]
+	},
+	{
+		"name": "3D-bar-chart-object.jpg",
+		"x_labels": [
+			"Jan",
+			"Feb",
+			"Mar",
+			"Apr",
+			"May",
+			"Jun"
+		]
+	},
+	{
+		"name": "4-Bar-chart-showing-age-distribution-among-participants.jpg",
+		"x_labels": [
+			"15-24",
+			"25-34",
+			"35-44",
+			"45-54",
+			"55-64",
+			"65-74",
+			"75+"
+		]
+	},
+	{
+		"name": "8e216bd68c12b759437864d5f87d29a5.jpg",
+		"x_labels": [
+			"MONDAY",
+			"TUESDAY",
+			"WEDNESDAY",
+			"THURSDAY",
+			"FRIDAY"
+		]
+	},
+	{
+		"name": "Bar Chart .jpg",
+		"x_labels": [
+			"Leadership",
+			"Innovation",
+			"Strategic Focus",
+			"Ability to Execute",
+			"Customer Focus"
+		]
+	},
+	{
+		"name": "Bar Chart Count.jpg",
+		"x_labels": [
+			"Less than 1 year",
+			"1-2 years",
+			"2-5 years",
+			"5-10 years",
+			"10-20 years",
+			"20 years plus"
+		]
+	},
+	{
+		"name": "Bar Chart actuals.jpg",
+		"x_labels": [
+			"Leadership",
+			"Innovation",
+			"Strategic Focus",
+			"Ability to Execute",
+			"Customer Focus"
+		]
+	},
+	{
+		"name": "Bar-Graph-Chart.jpg",
+		"x_labels": [
+			"Golf",
+			"Tennis",
+			"Football",
+			"Rugby",
+			"Basketball"
+		]
+	}
+]
