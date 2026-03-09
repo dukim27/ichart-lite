@@ -10,6 +10,8 @@ Accessible Charts for the Visually Impaired using Lightweight Extraction Algorit
 <img src="assets/ichart_overview.png" width="850">
 </p>
 
+**Paper PDF:** [Full Paper PDF](papers/iChart.pdf)
+
 ---
 
 # Overview
