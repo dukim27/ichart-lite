@@ -4,40 +4,26 @@
 [![Demo](https://img.shields.io/badge/Demo-YouTube-red)](https://www.youtube.com/watch?v=9E8D6fh1OvI)  
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-# Overview
-
 **iChart-lite** is a lightweight chart understanding system designed to help visually impaired users interpret bar charts.
+
+# Overview
 
 <p align="center">
 <img src="assets/ichart_overview.png" width="850">
 </p>
 
+The system automatically:
+
+1. detects chart components
+2. extracts numerical values from bars
+3. generates textual descriptions
+4. converts the descriptions into speech
+
+Unlike many previous chart-understanding systems, iChart-lite is designed to operate **on lightweight devices and real-world charts** rather than synthetic datasets.
+
 - **Conference:** Korea Software Congress (KSC) 2023
 - **Organization:** KIISE
 - **Paper PDF:** [Full Paper PDF](papers/iChart.pdf)
-
-The system automatically:
-
-1. detects chart components
-2. extracts numerical values from bars
-3. generates textual descriptions
-4. converts the descriptions into speech
-
-Unlike many previous chart-understanding systems, iChart-lite is designed to operate **on lightweight devices and real-world charts** rather than synthetic datasets.
----
-
-# Overview
-
-**iChart-lite** is a lightweight chart understanding system designed to help visually impaired users interpret bar charts.
-
-The system automatically:
-
-1. detects chart components
-2. extracts numerical values from bars
-3. generates textual descriptions
-4. converts the descriptions into speech
-
-Unlike many previous chart-understanding systems, iChart-lite is designed to operate **on lightweight devices and real-world charts** rather than synthetic datasets.
 
 ---
 
